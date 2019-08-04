@@ -1,2 +1,2 @@
 # cansat.algorytm.lotu
-Model matematyczny automatyki sterującej satelitą CANSAT.
+Model matematyczny automatyki sterującej satelitą CANSAT

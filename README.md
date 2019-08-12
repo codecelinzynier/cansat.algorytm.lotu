@@ -1,2 +1,2 @@
-# CanSat Algorytm lotu
-Model matematyczny automatyki sterującej satelitą CANSAT.
+### Zmiana serwera. Szczegóły na forum.
+
